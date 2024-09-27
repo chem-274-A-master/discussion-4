@@ -6,11 +6,6 @@ If you finish those exercises, you will also have the opportunity to learn about
 For today's discussion, you should report your responses in our shared google slide presentation. 
 Each group should have their own slide (or slides) for answers.
 
-[Shared Slides](https://docs.google.com/presentation/d/1vUC8IcIsuEvxJnQM-_XnFBBzIOJFAgC8yB1HZ4kX1Qc/edit?usp=sharing)
-
-## ICE BREAKER!
-What is your hometown famous for? (you can share on the Google Slide if you want!)
-
 ## Namespaces and Scope
 
 For this exercise, you are asked to read and interpret code without executing it. Being able to read and comprehend code will be crucial to you as you become a better software developer.
