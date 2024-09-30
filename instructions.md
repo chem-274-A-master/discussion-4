@@ -5,12 +5,10 @@ If you finish those exercises, you will also have the opportunity to learn about
 
 For today's discussion, you should report your responses in our shared google slide presentation. 
 Each group should have their own slide (or slides) for answers.
-
+1
 ## Namespaces and Scope
 
 For this exercise, you are asked to read and interpret code without executing it. Being able to read and comprehend code will be crucial to you as you become a better software developer.
-
-Write your answers in a `README.md` file.  
 
 1. Define `namespace` and `scope` for the Python programming language. In what namespace order does Python search for names?
 
@@ -18,7 +16,7 @@ Write your answers in a `README.md` file.
 
 <img src="scope_code.png">
 
-1. How many versions of the `sum` function are used in this code sample? What are they?
+1. How many versions of the `sum` function are present in this code sample? What are they?
 
 1. For each version of the sum function, write the line or lines where it is called.
 
@@ -30,17 +28,15 @@ Write your answers in a `README.md` file.
 
 1. What is the namespace of `my_list`?
 
-1. Consider that the following code is added. Write what the output number will be, and trace the execution of the code. Write, in order, the line numbers that will be executed to evaluate this task. **Share your line numbers** in the shared 
+1. Consider that the following code is added. Write what the output number will be, and trace the execution of the code. Write, in order, the line numbers that will be executed to evaluate this task. **Share your line numbers** in the shared document. You can also test your answer in [Python Tutor](https://pythontutor.com/). Note that you will have to remove the NumPy version of `sum` to test this code, but Python Tutor is still very useful for visualizing this execution.
 
 ```python
 mean( [ squared_sum([1, 4, 5]), sum(test_list) ] )
 ```
 
-If you want to check yourself, you can type the code into [Python Tutor](https://pythontutor.com/).
-
 ## Bash Scripting and Python Data Types
 
-Using an appropriate command line tool, retrieve the Python file at this URL. **Share your approach** in the shared Google Slides presentation. 
+Using an appropriate command line tool, retrieve the Python file at this URL. **Share your approach** in the shared Google Slides presentation. Consider using [VSCode Liveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) to collaborate on this task.
 
 https://gist.githubusercontent.com/janash/4fc7cdff99e2e7dcfea8315b98c2ec65/raw/4a1e77e373e3516cb71701c3c700e48073788751/thermo.py
 
